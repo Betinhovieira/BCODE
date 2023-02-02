@@ -8,9 +8,9 @@
 
 :root {
     font-size: 16px;
-    --royal-blue-light: #404eed;
+    --royal-blue-light: #ffffff;
     --royal-blue-dark: #3946d4;
-    --white: #fff;
+    --white: rgb(7, 6, 6);
     --backgroud: #e2e3e9;
   }
   
