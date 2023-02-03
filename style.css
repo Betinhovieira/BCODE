@@ -111,7 +111,7 @@ header {
 a {
   color: var(--white);
   text-decoration: none;
-  transform: ;
+  
 }
 
 .header {
@@ -226,6 +226,8 @@ a {
     top: -0.4375rem;
   }
 }
+
+
 
 /* menu footer */
 
