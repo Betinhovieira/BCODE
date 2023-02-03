@@ -51,13 +51,13 @@ input[type="checkbox"] {
 
 .bi {
   margin-left: 20rem;
+  margin-right: 1.2rem;
   font-size: 1.3rem;
   cursor: pointer;
 }
 
 .bi-moon {
-  margin-left: 0.5rem;
-  margin-right: 1rem;
+  margin-right: 1.3rem;
   display: none;
 }
 
@@ -111,6 +111,7 @@ header {
 a {
   color: var(--white);
   text-decoration: none;
+  transform: ;
 }
 
 .header {
@@ -126,7 +127,7 @@ a {
   margin-left: 1.1rem;
   font-size: 1.5rem;
   font-weight: bold;
-  color: #e2e3e9;
+  color: #ffffff;
 }
 
 .menu {
@@ -169,10 +170,13 @@ a {
   .menu a {
     padding: 1rem 0;
     margin-inline: 1rem;
-    border-bottom: 0.0625rem solid rgba(0, 0, 0, 0.16);
+    border-bottom: 0.0625rem solid rgba(255, 255, 255, 0.16);
     border-radius: 0;
   }
 
+  .logo {
+    color: #000;
+  }
   .btn-menu {
     background: none;
     border: none;
