@@ -120,7 +120,7 @@ a {
   justify-content: space-between;
   background: var(--royal-blue-light);
   height: 4.6875rem;
-  padding: 1rem;
+  padding:1rem;
 }
 
 .logo {
@@ -140,7 +140,7 @@ a {
 .menu a {
   display: block;
   padding: 2rem;
-  border-radius: 0.2rem;
+  border-radius: 0.1rem;
 }
 
 .menu a:hover {
@@ -168,8 +168,8 @@ a {
   }
 
   .menu a {
-    padding: 1rem 0;
-    margin-inline: 1rem;
+    padding: 0.1rem 0;
+    margin-inline: 2rem;
     border-bottom: 0.0625rem solid rgba(255, 255, 255, 0.16);
     border-radius: 0;
   }
@@ -183,7 +183,7 @@ a {
     font: inherit;
     display: flex;
     align-items: center;
-    gap: 0.5rem;
+    gap: 0.3rem;
     color: var(--white);
     padding: 1rem 0;
     cursor: pointer;
